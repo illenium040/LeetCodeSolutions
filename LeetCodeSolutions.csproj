@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="AlgorithmResultTemplate.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="AlgorithmResultTemplate.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Easy\0-35\" />
+    <Folder Include="Easy\70-100\" />
+    <Folder Include="Hard\0-35\" />
+    <Folder Include="Hard\35-70\" />
+    <Folder Include="Hard\70-100\" />
+    <Folder Include="Medium\0-35\" />
+    <Folder Include="Medium\70-100\" />
+  </ItemGroup>
+
+</Project>
