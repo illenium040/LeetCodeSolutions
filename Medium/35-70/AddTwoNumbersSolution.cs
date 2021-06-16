@@ -6,8 +6,9 @@ namespace LeetCodeSolutions.Medium._35_70
 {
     /// <summary>
     /// Submission result
-    //  Runtime  |  Memory   | % best runtime | % best memory
-    //  104 ms   |  25.7 MB  | 11             | 99.81
+    //  ID    | Runtime  |  Memory   | % beats runtime | % beats memory
+    //--------|----------|-----------|-----------------|----------------
+    //  1     | 104 ms   |  25.7 MB  | 79.24           | 99.81
     /// </summary>
     class AddTwoNumbersSolution
     {

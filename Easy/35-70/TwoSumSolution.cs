@@ -2,8 +2,9 @@
 {
     /// <summary>
     /// Submission result
-    //  Runtime  |  Memory | % best
-    //  452 ms   |  29 MB  | 11
+    //  ID    | Runtime  |  Memory | % beats runtime | % beats memory
+    //--------|----------|---------|-----------------|----------------
+    //  1     | 452 ms   |  29 MB  | 11              | 100
     /// </summary>
     class TwoSumSolution
     {

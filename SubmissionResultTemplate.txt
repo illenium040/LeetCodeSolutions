@@ -1,5 +1,6 @@
 ﻿/// <summary>
 /// Submission result
-//  Runtime  |  Memory   | % best runtime | % best memory
-//  0 ms     |  0 MB     | 0              | 0
+//  ID    | Runtime  |  Memory   | % beats runtime | % beats memory
+//--------|----------|-----------|-----------------|----------------
+//  0     | 0 ms     |  0 MB     | 0               | 0
 /// </summary>
