@@ -1,5 +1,5 @@
 ﻿/// <summary>
-/// Algorithm results
+/// Submission result
 //  Runtime  |  Memory   | % best runtime | % best memory
 //  0 ms     |  0 MB     | 0              | 0
 /// </summary>

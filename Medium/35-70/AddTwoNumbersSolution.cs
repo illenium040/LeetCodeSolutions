@@ -5,7 +5,7 @@ using System.Text;
 namespace LeetCodeSolutions.Medium._35_70
 {
     /// <summary>
-    /// Algorithm results
+    /// Submission result
     //  Runtime  |  Memory   | % best runtime | % best memory
     //  104 ms   |  25.7 MB  | 11             | 99.81
     /// </summary>

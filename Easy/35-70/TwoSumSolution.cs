@@ -1,7 +1,7 @@
 ﻿namespace LeetCodeSolutions.Easy._35_70
 {
     /// <summary>
-    /// Algorithm results
+    /// Submission result
     //  Runtime  |  Memory | % best
     //  452 ms   |  29 MB  | 11
     /// </summary>

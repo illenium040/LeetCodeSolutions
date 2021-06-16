@@ -6,11 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="AlgorithmResultTemplate.txt" />
+    <None Remove="SubmissionResultTemplate.txt" />
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="AlgorithmResultTemplate.txt" />
+    <Compile Include="SubmissionResultTemplate.txt" />
   </ItemGroup>
 
   <ItemGroup>
